@@ -2,7 +2,7 @@
 
 
 
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=lifnaja)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=lifnaja&count_private=true" /></p>
 
 ---
 
